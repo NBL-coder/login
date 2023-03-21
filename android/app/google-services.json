@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "566332786418",
+    "project_id": "news-4b7f5",
+    "storage_bucket": "news-4b7f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566332786418:android:24e54160c580aef861726b",
+        "android_client_info": {
+          "package_name": "io.ionic.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566332786418-be1689u4o7vcubpo3du2856kmpl8m0vo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAU3gFG7FDGDVxa_Opp8PbLraVN5nmxyG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566332786418-be1689u4o7vcubpo3du2856kmpl8m0vo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "566332786418-k5pfho4iv8vr91637m11ui6vqagfbv0a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.ionic.test"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
